@@ -1,0 +1,14 @@
+C:\Users\oyarosh\Projects\websocketclient\bin\Debug\net8.0\websocketclient.exe
+C:\Users\oyarosh\Projects\websocketclient\bin\Debug\net8.0\websocketclient.deps.json
+C:\Users\oyarosh\Projects\websocketclient\bin\Debug\net8.0\websocketclient.runtimeconfig.json
+C:\Users\oyarosh\Projects\websocketclient\bin\Debug\net8.0\websocketclient.dll
+C:\Users\oyarosh\Projects\websocketclient\bin\Debug\net8.0\websocketclient.pdb
+C:\Users\oyarosh\Projects\websocketclient\obj\Debug\net8.0\websocketclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oyarosh\Projects\websocketclient\obj\Debug\net8.0\websocketclient.AssemblyInfoInputs.cache
+C:\Users\oyarosh\Projects\websocketclient\obj\Debug\net8.0\websocketclient.AssemblyInfo.cs
+C:\Users\oyarosh\Projects\websocketclient\obj\Debug\net8.0\websocketclient.csproj.CoreCompileInputs.cache
+C:\Users\oyarosh\Projects\websocketclient\obj\Debug\net8.0\websocketclient.dll
+C:\Users\oyarosh\Projects\websocketclient\obj\Debug\net8.0\refint\websocketclient.dll
+C:\Users\oyarosh\Projects\websocketclient\obj\Debug\net8.0\websocketclient.pdb
+C:\Users\oyarosh\Projects\websocketclient\obj\Debug\net8.0\websocketclient.genruntimeconfig.cache
+C:\Users\oyarosh\Projects\websocketclient\obj\Debug\net8.0\ref\websocketclient.dll
